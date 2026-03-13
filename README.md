@@ -11,4 +11,6 @@ requires pyfiglet and printy, not sure the current setup will directly install t
 ```
 ## directly:
 (not sure this will work)
+```
 pip install git+(insert link here)
+```
