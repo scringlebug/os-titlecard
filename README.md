@@ -6,11 +6,11 @@ requires pyfiglet and printy, not sure the current setup will directly install t
 # installation
 ## cloning:
 ```
-> git clone (insert link)
+> git clone https://github.com/scringlebug/os-titlecard.git
 > pip install .
 ```
 ## directly:
 (not sure this will work)
 ```
-pip install git+(insert link here)
+pip install git+https://github.com/scringlebug/os-titlecard.git
 ```
